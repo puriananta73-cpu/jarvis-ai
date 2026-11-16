@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis AI</string>
+    <string name="accessibility_service_description">Jarvis AI Accessibility Service for automating messaging and in-app navigation in WhatsApp and Instagram.</string>
+</resources>

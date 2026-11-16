@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI",
+  "description": "Personal 24/7 AI assistant for Android with voice, automation, and messaging integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
